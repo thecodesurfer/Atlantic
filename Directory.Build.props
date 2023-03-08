@@ -1,0 +1,8 @@
+<Project>
+   <PropertyGroup>
+      <LangVersion>latest</LangVersion>
+      <TreatWarningAsErrors>false</TreatWarningAsErrors>
+      <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+      <CentralPackageTransitivePinningEnabled>true</CentralPackageTransitivePinningEnabled>
+   </PropertyGroup>
+</Project>
